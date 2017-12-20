@@ -1,4 +1,4 @@
-package com.structual.pattern.Composite;
+package com.structural.pattern.Composite;
 
 public class TestCompositePattern {
 	public static void main(String[] args) {
