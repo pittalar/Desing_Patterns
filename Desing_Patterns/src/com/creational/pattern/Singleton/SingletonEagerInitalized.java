@@ -1,4 +1,4 @@
-package com.creational.pattern.singleton;
+package com.creational.pattern.Singleton;
 
 public class SingletonEagerInitalized {
 
